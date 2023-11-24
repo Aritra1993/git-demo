@@ -6,6 +6,6 @@ This is the first file in this repo.
 
 He is Maitri Gosai's husband
 
-## This is the 3rd Commit
+## Website content
 
-Just for practice
+1. index.html
